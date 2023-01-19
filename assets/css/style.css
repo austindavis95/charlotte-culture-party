@@ -42,7 +42,7 @@
 
   header {
     padding: 20px 35px;
-    background-color: #39a6b2;
+    background-color: #003D5B;
   }
 
   body {
@@ -65,7 +65,7 @@
   header h1 {
     font-weight: bold;
     font-size: 36px;
-    color: #fce138;
+    color: #edae49;
     margin: 0;
     display: inline;
   }
@@ -75,7 +75,7 @@
     text-decoration: none;
     font-size: .8rem;
     margin: 10px;
-    color: #fce138;
+    color: #edae49;
   }
 
   header nav {
@@ -94,11 +94,46 @@
   } 
 
   .hero {
-    background-image: url("romanlady.JPG"), url("romanlady.JPG");
+    background-image: url("../../images/logounderwater.JPG");
+    height: 600px;
+  }
+  
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  footer {
+    background: #fce138;
+    width: 100%;
+    padding: 40px 35px;
   }
 
 
+  footer h2 {
+    display: inline;
+    color: #024e76;
+    font-size: 30px;
+    margin: 0;
+  }
+
+  footer div {
+    
+    line-height: 1.5;
+    text-align: center;
+  }
   
-  
-  
+  footer a {
+    color: #024e76;
+    float: right;
+    text-align: right;
+  }
