@@ -121,6 +121,13 @@
     height: 300px;
   }
 
+  .merch {
+    background-image: url("../images/roundtable.JPG");
+    height: 600px;
+    background-size: cover;
+    background-position: center;
+  }
+
 
 
 
@@ -158,4 +165,10 @@
     color: #FF4D6D;
     float: right;
     text-align: right;
+  }
+
+  footer .social-media-icons img {
+    width: 50px;
+    padding: 10px;
+    filter: invert(1);
   }
