@@ -94,10 +94,18 @@
   } 
 
   .hero {
-    background-image: url("../../images/logounderwater.JPG");
-    height: 600px;
+    background-image: url("../images/logounderwater.JPG");
+    height: 850px;
+    background-size: cover;
+    background-position: center;
   }
   
+  .listen {
+    background-image: url("../images/groupphoto.JPG");
+    height: 600px;
+    background-size: cover;
+    background-position: center;
+  }
 
 
 
